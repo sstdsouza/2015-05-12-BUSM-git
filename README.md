@@ -1,4 +1,5 @@
 #new stuff
+# this is the software carpentry workshop
 
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
